@@ -1,0 +1,70 @@
+{
+    "program": {
+        "uuid": "DxVPA5",
+        "candyMachine": "DxVPA5isb8PZpiwwM1sP5dgcC3v4MLTjDdprhrnuF6pj"
+    },
+    "items": {
+        "0": {
+            "link": "https://arweave.net/NWjeYRBYeymVIgvjB9CfkKu_pXmiZvnS6stY5s1lHYs",
+            "name": "Larva Wyrm",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "1": {
+            "link": "https://arweave.net/6znuTpNzT7Nw7V-p_DXAYhvCiDjRzi_SuIbeQTi7XaY",
+            "name": "Jerboa",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "2": {
+            "link": "https://arweave.net/nh_hsnYH-wtp15vDJ19ZD3XB3tLHtfz_ABpy6M2uPxM",
+            "name": "The Strategist",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "3": {
+            "link": "https://arweave.net/RWXbDPsw120bjnUNRPYkRXKUtanpZd3BRXN3uyL7brY",
+            "name": "Dragon",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "4": {
+            "link": "https://arweave.net/hwJE4edf8UGxfvsiaIZjw0TmOrivhWJCQPgxZkSFkTw",
+            "name": "Butterfly Lady",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "5": {
+            "link": "https://arweave.net/OdvaLCAZIy0xmYQ2IsOnZ0hKoZTArjEJwSuEw-rw-IU",
+            "name": "Wolf",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "6": {
+            "link": "https://arweave.net/QWqYGA_nORXHXarU6DmEtNzrYxw88aoFeTM80JGdyWw",
+            "name": "Diplodocus",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "7": {
+            "link": "https://arweave.net/_o3xD3xFn8fbJcg-JGDlDVLEQ2Cpmxl1p5MO20327Zg",
+            "name": "Archangel St Michael",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "8": {
+            "link": "https://arweave.net/Iz-B7qmgzBShDVkOSXlmL3crEBigKEGPaoeZ78oczpc",
+            "name": "Harpymimus",
+            "onChain": true,
+            "verifyRun": true
+        },
+        "9": {
+            "link": "https://arweave.net/R9tZkHZLZZvU29YmqoFhgm-_ULeIbVSdLUzmOaKNYGY",
+            "name": "Dimetrodon",
+            "onChain": true,
+            "verifyRun": true
+        }
+    },
+    "env": "devnet",
+    "cacheName": "cmTemp"
+}

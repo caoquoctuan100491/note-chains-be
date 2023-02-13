@@ -1,0 +1,39 @@
+{
+  "name": "origami-game-backend",
+  "version": "1.0.0",
+  "description": "server game",
+  "main": "main.js",
+  "dependencies": {
+    "@metaplex/js": "^4.12.0",
+    "@pinata/sdk": "^1.1.23",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.3",
+    "jimp": "^0.16.0",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.4",
+    "moralis": "^1.8.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20",
+    "otplib": "^12.0.1",
+    "qrcode": "^1.5.0",
+    "serverless-http": "^3.0.1",
+    "socket.io": "^4.4.1",
+    "sticky-session": "^1.1.2",
+    "tracer": "^1.1.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/origamidungeon/origami-game-backend.git"
+  },
+  "author": "CaoQuocTuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/origamidungeon/origami-game-backend/issues"
+  },
+  "homepage": "https://github.com/origamidungeon/origami-game-backend#readme"
+}

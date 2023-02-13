@@ -1,0 +1,18 @@
+{
+    "price": 3,
+    "number": 10,
+    "gatekeeper":null,
+    "solTreasuryAccount": "AG295msxmZ9cjEsDs7ECbK4akG4jkD9pq25y6UCEH3VN",
+    "splTokenAccount": null,
+    "splToken": null,
+    "goLiveDate": "22 Feb 2022 00:00:00 GMT",
+    "endSettings": null,
+    "whitelistMintSettings": null,
+    "hiddenSettings": null,
+    "storage": "arweave",
+    "ipfsInfuraProjectId": null,
+    "ipfsInfuraSecret": null,
+    "awsS3Bucket": "https://origamimonster.s3.filebase.com/",
+    "noRetainAuthority": false,
+    "noMutable": false
+}
